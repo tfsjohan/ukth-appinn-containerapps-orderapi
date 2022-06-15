@@ -1,4 +1,4 @@
-namespace HttpApi.Controllers
+/* namespace HttpApi.Controllers
 {
     using Azure.Storage.Queues;
     using Azure.Storage.Queues.Models;
@@ -47,3 +47,4 @@ namespace HttpApi.Controllers
         }
     }
 }
+ */
